@@ -1,4 +1,4 @@
-name: build_kernelsu_for_polaris
+name: build_kernelsu_for_polaris_lxc
 
 on:
   workflow_dispatch:
